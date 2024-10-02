@@ -404,3 +404,6 @@ const recipes = [
     image: './recipe-images/grilled.jpg'
   }
 ]
+
+console.log("Books: ", books)
+console.log("Recieps: ", recipes)
